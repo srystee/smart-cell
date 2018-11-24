@@ -26,7 +26,7 @@ body {
 }
 
 .banner {
-	background: url(../img/banner.jpg) no-repeat center top;
+	background: url(../images/banner.jpg) no-repeat center top;
     height: 580px;
 }
 .connection {
@@ -120,7 +120,7 @@ body {
 /*--------------------------*/
 
 .background-product{
-    background: url(../img/phone.jpg) no-repeat center;
+    background: url(../images/phone.jpg) no-repeat center;
     background-size: 100%;
 	min-height: 400px;
 	    padding: 40px 90px;
